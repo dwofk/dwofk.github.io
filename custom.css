@@ -1,0 +1,122 @@
+.navbar-custom {
+	background-color: #000000;
+	opacity: 0.9;
+}
+
+.navbar-brand-custom
+{
+	font-size: 36px;
+	color: white;
+}
+.navbar-brand-custom:hover, 
+.navbar-brand-custom:focus {
+	color: white;
+}
+
+.navbar-nav-custom > li > a {
+	font-size: 20px;
+	color: gray;
+	transition: 0.3s ease;
+}
+.navbar-nav-custom > li > a:hover, 
+.navbar-nav-custom > li > a:focus {
+	color: white;
+	text-decoration: underline;
+}
+
+.hr-custom-white {
+	height: 1px;
+	border-width: 0;
+	color: white;
+	background-color: white;
+}
+
+.hr-custom-black {
+	height: 1px;
+	border-width: 0;
+	color: black;
+	background-color: black;
+}
+
+.img-custom-profpic {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	max-height: 250px;
+	height: auto;
+	object-fit: cover;
+	border-radius: 50%;
+}
+
+.img-custom-pubfig {
+	display: block; 
+	margin: auto; 
+	max-width: 100%; 
+	height: auto;
+}
+
+.p-custom-24 {
+	font-size: 24px;
+}
+
+.p-custom-light-20 {
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+.p-custom-light-18 {
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.p-custom-light-16 {
+	font-size: 16px;
+	font-weight: lighter;
+}
+
+.link-custom:link,
+.link-custom:visited {
+	color: skyblue;
+}
+.link-custom:hover,
+.link-custom:active {
+	color: deepskyblue;
+	text-decoration: underline;
+}
+
+.link-custom-btn:link,
+.link-custom-btn:visited {
+	color: white;
+}
+.link-custom-btn:hover,
+.link-custom-btn:active {
+	color: white;
+	text-decoration: underline;
+}
+
+.list-group-item-custom {
+	background-color: black;
+  	border-top-color: #505050;
+  	border-left-color: #505050;
+  	border-right-color: #505050;
+  	border-bottom-color: #505050;
+}
+
+.card-body-custom-collapse {
+	background-color: black;
+}
+
+.code-custom {
+	color: white;
+}
+
+.btn-custom {
+	border-color: black;
+	color: white;
+}
+
+.btn-custom:hover,
+.btn-custom:active {
+	border-color: white;
+	color: white;
+}
